@@ -1,4 +1,4 @@
-# bmi
+# BMI Calculator
 
 BMI calculator is an online or offline tool that is widely used as a reliable indicator of one’s healthy body weight for their height. The body mass index or BMI indicates how much body mass you have with respect to your height and weight. It not only refers to the fat inside your body, but also the one within your bones and muscles. A BMI calculator lets you determine how healthy you are and whether you are within the normal weight range, if you are underweight or overweight as per your height.
 
