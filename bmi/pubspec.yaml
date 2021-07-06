@@ -1,0 +1,40 @@
+name: bmi
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  screenshot: ^0.1.1
+  esys_flutter_share: ^1.0.2
+  flutter_icons: ^1.1.0
+  flutter_circular_chart: ^0.1.0
+  cupertino_icons: ^1.0.2
+  google_fonts: ^0.2.0
+  animated_splash_screen: ^1.0.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+flutter:
+
+ 
+  uses-material-design: true
+
+  
+  
+  assets:
+   - lib/images/bmi.png
+   - lib/images/info.png
+   - lib/images/logo.png
+ 
