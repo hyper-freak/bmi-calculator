@@ -5,9 +5,10 @@ BMI calculator 😎 is an online or offline tool that is widely used as a reliab
 BMI calculator plays a key role in understanding your health. 😉 Whether your BMI is high or low, it may be a matter of concern as it may raise a number of health problems as per age further. Hence, BMI remains one of key health parameters, when your health condition is evaluated 😉.
 
 Features of this App 😎😎:
--BMI Calculator
--Unit Convertor
--Details
+\-BMI Calculator
+\-Unit Convertor
+\-Details
+\-Share Result With Friends
 
 ## ScreenShots:
 
